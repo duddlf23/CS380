@@ -1,0 +1,13 @@
+﻿  asst5.cpp
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(272): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(292): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(386): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(721): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(731): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(758): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(832): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(876): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(901): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\영일\desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\asst5.cpp(922): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  asst5.vcxproj -> C:\Users\영일\Desktop\학교\3학년\봄 (2018)\컴그개\플젝 최종 제출\플젝8\hw8_20150756_최영일\.\Debug\asst5.exe
+  asst5.vcxproj -> .\Debug\asst5.pdb (Full PDB)
